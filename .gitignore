@@ -1,0 +1,66 @@
+############################
+# GENERALE
+############################
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+
+############################
+# JAVA / ANDROID
+############################
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.apk
+*.aab
+
+*.prefs
+Java/old/bluecove-2.1.0/.classpath
+Java/old/bluecove-2.1.0/.project
+Java/old/bluecove-2.1.0/target/test-classes/cldcapi_10_11-javax.microedition.io-signature.xml
+Java/old/bluecove-2.1.0/target/test-classes/jsr82-obex-signature.xml
+Java/old/bluecove-2.1.0/target/test-classes/jsr82-signature.xml
+Java/old/bluecove-2.1.0/target/test-classes/log4j.xml
+Java/programma_raccolto/multithread_diverso/FabCat.jar
+Java/programma_raccolto/multithread_diverso/FabCat.jar
+Java/FabCat/target/FabCat-0.0.1-SNAPSHOT.jar
+Java/FabCat/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+*.lst
+
+
+############################
+# ARDUINO
+############################
+*.elf
+*.hex
+*.bin
+*.o
+
+############################
+# LTSPICE
+############################
+*.raw
+*.net
+*.op.raw
+*.fft
+
+############################
+# KICAD
+############################
+*-bak
+*.bak
+*.gbr
+*.drl
+*.step
+*.stp
+*.zip
+
+############################
+# EXTRA
+############################
+*.pyc

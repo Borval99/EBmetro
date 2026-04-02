@@ -1,0 +1,60 @@
+Filo:
+Limitazione della corrente : Passo 2A, Max 30A (Passi con stabilizzazione Led Blink)
+Tensione no limiti
+
+Rampe:
+Limitatore di corrente Fisso a 15A
+Regolo in tensione 2-15V passo di massimo che si puo avere (Da stabilire all'inizio)
+Vogliamo poter leggere corrente e tensione, realtime max min per ogni rampa
+
+Onda trapezioidale, _/-\_ t1=t3=5s t2=t4=0.5s-5s
+da ripetere 5 cicli alla pressione
+
+
+Display 1.8p 128x160 Driver:st7735
+
+Modalità:
+-Filo
+-Rampa
+-Calibrazione? oppure settings in ogni pagina
+
+Modaità Filo:
+Mostra Tensione, Corrente
+Passo attuale, passo prima e passo dopo
+Cambio Modalità
+Settings?
+
+Modalità Rampe:
+Mostra Tensione, Corrente, Max Min per Runtime
+Onda Trapezoidale 
+Tempi sotto l'onda, modificabili lampeggianti
+Start
+Un mini grafico della tensione? magari piu avanti
+
+
+
+
+
+Generatore Classico: 
+Dobbiamo mettere il display esterno,
+Dia un impulso della Rampa al Misuratore della FEM
+
+Misuratore della FEM:
+Letture di qualche micro 
+Schermo su cui scriverle
+Offset Automatico / Manuale
+Lettura precisa, accurato?
+
+EBmetro
+Alimentazione motore passo passo 20 step con driver
+arduino nano 
+Letture a mV
+
+Misuratore di cariche
+
+
+A parte a batterie 
+Circuito campo elettrico
+
+
+
